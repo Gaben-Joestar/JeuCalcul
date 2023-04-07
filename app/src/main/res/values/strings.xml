@@ -25,4 +25,8 @@
     <string name="text_envoyer">Envoyer</string>
     <string name="text_votre_nom">Votre nom:</string>
     <string name="edit_votre_nom">Nom</string>
+    <string name="boutonApropos">A Propos</string>
+    <string name="score_liste">Meilleurs scores:</string>
+    <string name="noms">IDE Pierrick  TALBOT Gabin</string>
+    <string name="bouton_equations">Equations</string>
 </resources>

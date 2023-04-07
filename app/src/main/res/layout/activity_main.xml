@@ -36,4 +36,24 @@
         app:layout_constraintStart_toStartOf="@id/boutonJouer"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Button
+        android:id="@+id/boutonApropos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/boutonApropos"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/boutonEquations" />
+
+    <Button
+        android:id="@+id/boutonEquations"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bouton_equations"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/boutonJouer" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -41,7 +41,8 @@ public class MaBase extends SQLiteOpenHelper {
     public Cursor getData() {
         SQLiteDatabase db = getReadableDatabase();
         String[] projection = {"id", "name", "score"};
-        Cursor cursor = db.query("mytable", projection, null, null, null, null, null);
+        String sortOrder = "score DESC";
+        Cursor cursor = db.query("mytable", projection, null, null, null, null, sortOrder);
         return cursor;
     }
 
