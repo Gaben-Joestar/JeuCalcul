@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calcul mental</string>
+    <string name="text_accueil">Bienvenue !</string>
+    <string name="text_jeu">En attente de calcul...</string>
+    <string name="bouton_jeu">Jouer</string>
+    <string name="bouton_scores">Scores</string>
+    <string name="bouton_1">1</string>
+    <string name="bouton_2">2</string>
+    <string name="bouton_3">3</string>
+    <string name="bouton_4">4</string>
+    <string name="bouton_5">5</string>
+    <string name="bouton_6">6</string>
+    <string name="bouton_7">7</string>
+    <string name="bouton_8">8</string>
+    <string name="bouton_9">9</string>
+    <string name="bouton_0">0</string>
+    <string name="bouton_suppression">Suppr</string>
+    <string name="bouton_entree">Entree</string>
+    <string name="text_resultat">Resultat: </string>
+    <string name="text_vies">Vies: </string>
+    <string name="text_nb_vies">3 </string>
+    <string name="text_score">Score:</string>
+    <string name="text_valeur_score">0</string>
+    <string name="text_fin_partie">Fin de la partie !</string>
+    <string name="text_envoyer">Envoyer</string>
+    <string name="text_votre_nom">Votre nom:</string>
+    <string name="edit_votre_nom">Nom</string>
+</resources>
